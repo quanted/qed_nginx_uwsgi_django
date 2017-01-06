@@ -1,0 +1,2 @@
+# qed_nginx_uwsgi_django
+qed_nginx_uwsgi_django
